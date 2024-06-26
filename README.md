@@ -11,7 +11,7 @@
 - **Performance Prediction:** Accurately predict the performance of turbomachinery based on various input parameters.
 - **Design Optimization:** Optimize preliminary turbomachinery design to achieve optimal performance metrics.
 - **Equation-oriented problem formulation:** Equation-oriented problem formulation for performance analysis and design optimization.
-- **Model consitency:** The model is consistent for both performance prediction and design optimization.
+- **Model consistency:** The model is consistent for both performance prediction and design optimization.
 - **Efficient solution:** The model adopts gradient-based root-finding and optimization solver
 - **Real gas fluid property analysis:** Use CoolProp to determine thermohpysical properties.
 - **Flexible model:** The model offers options for submodels for loss, deviation and choking calculations
